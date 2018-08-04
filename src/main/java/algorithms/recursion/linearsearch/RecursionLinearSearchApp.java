@@ -1,4 +1,4 @@
-package algorithms.recursion;
+package algorithms.recursion.linearsearch;
 
 public class RecursionLinearSearchApp {
 	
